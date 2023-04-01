@@ -64,23 +64,23 @@ print("RMSE =",rmse)
 ```
 
 ## Output:
-### Head:
+### df.head():
 ![ou](./head.png)
-### Tail:
+### df.tail():
 ![ou](./tail.png)
-### Value of X:
+### Array value of X:
 ![ou](./X.png)
-### Value of Y:
+### Array value of Y:
 ![ou](./Y.png)
-### Predicted value of y:
+### Values of Y prediction:
 ![ou](./py.png)
-### Tested value of y:
+### Array values of Y test:
 ![ou](./yt.png)
-### Graph of training set:
+### Training Set Graph:
 ![ou](./gt.png)
-### Graph of test set:
+### Test Set Graph:
 ![ou](./gte.png)
-### Value of MSE,MAE,RMSE:
+### Values of MSE, MAE and RMSE:
 ![ou](./last.png)
 
 
