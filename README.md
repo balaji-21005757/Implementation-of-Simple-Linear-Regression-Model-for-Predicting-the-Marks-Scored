@@ -71,6 +71,7 @@ print("RMSE =",rmse)
 ### Array value of X:
 ![ou](./X.png)
 <br>
+<br>
 ### Array value of Y:
 ![ou](./Y.png)
 ### Values of Y prediction:
